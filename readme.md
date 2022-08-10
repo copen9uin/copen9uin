@@ -6,6 +6,6 @@ Copen9uin means code plus penguin.
 <br>
 
 <div class="grid-image">
-  <img alt="" src="https://github.com/copen9uin/copen9uin/blob/main/pe.jpg?raw=true" width="39%" />
-  <img alt="" src="https://github.com/copen9uin/copen9uin/blob/main/cope.png?raw=true" />
+  <img alt="" src="https://github.com/copen9uin/copen9uin/blob/main/pe.jpg?raw=true" height="492" />
+  <img alt="" src="https://github.com/copen9uin/copen9uin/blob/main/cope.png?raw=true" height="492" />
 </div>
